@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-"""
-TikTok Username Changer - Patched Version
-"""
 import requests
 import json
 import time
